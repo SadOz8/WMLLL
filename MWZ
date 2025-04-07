@@ -572,4 +572,5 @@ folder2:AddButton("Walk On Water", function()
     WalkPart.Size = Vector3.new(20000,0,20000)
     
     
-    local WalkPart = Instance.new("Par
+    local WalkPart = Instance.new("Part")
+    WalkPart.Parent = Game.Wo
